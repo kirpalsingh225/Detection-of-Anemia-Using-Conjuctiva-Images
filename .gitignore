@@ -151,6 +151,25 @@ coverage*.info
 *.coverage
 *.coveragexml
 
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyz
+*.pyzw
+*.pyt
+*.pyi
+
+# Virtual environments
+venv/
+env/
+*.env/
+ENV/
+
+
 # NCrunch
 _NCrunch_*
 .*crunch*.local.xml
