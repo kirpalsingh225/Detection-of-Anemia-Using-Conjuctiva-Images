@@ -33,6 +33,8 @@ class ModelTrainer:
 
             logging.info("model creation done")
 
+            print(model.summary())
+
             return model
 
         except Exception as e:
@@ -71,3 +73,6 @@ class ModelTrainer:
 
         except Exception as e:
             raise CustomException(e, sys)
+
+
+

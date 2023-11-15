@@ -35,6 +35,8 @@ The dataset consists of 4262 conjuctiva images. The conjunctiva is a thin, clear
     Throughout the code, detailed logging is implemented to track the progress and identify any issues during the model training process. Custom exceptions are raised to facilitate error handling. The script completes the data processing pipeline, providing a trained model ready for anemia detection based on conjunctiva images.   
 
 
+## Architecture 
+
 
 ## Run Locally
 
