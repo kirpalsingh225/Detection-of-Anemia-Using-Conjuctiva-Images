@@ -65,3 +65,13 @@ Run the model
   python src/components/data_ingestion.py
 ```
 
+## Performance Results 
+
+- **Confusion Matrix**
+
+![img](https://github.com/kirpalsingh225/Detection-of-Anemia-Using-Conjuctiva-Images/blob/main/assets/confusion_matrix.png)
+
+
+- **Classification Report**
+
+![img](https://github.com/kirpalsingh225/Detection-of-Anemia-Using-Conjuctiva-Images/blob/main/assets/classification%20report.png)
