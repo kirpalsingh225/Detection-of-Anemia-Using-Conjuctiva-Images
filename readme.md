@@ -37,6 +37,7 @@ The dataset consists of 4262 conjuctiva images. The conjunctiva is a thin, clear
 
 ## Architecture 
 
+    ![img](https://github.com/kirpalsingh225/Detection-of-Anemia-Using-Conjuctiva-Images/blob/main/assets/Architecture.png)
 
 ## Run Locally
 
