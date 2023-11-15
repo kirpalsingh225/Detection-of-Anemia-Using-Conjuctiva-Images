@@ -6,6 +6,9 @@ Aim is to develop a robust and efficient model for the early detection of anemia
 
 The dataset consists of 4262 conjuctiva images. The conjunctiva is a thin, clear membrane that protects your eye. The aim is to classify the images into anemic or non-anemic. The dataset is almost balanced and ready for the model building.
 
+![img](https://github.com/kirpalsingh225/Detection-of-Anemia-Using-Conjuctiva-Images/blob/main/assets/dataset.png)
+
+
     
 
 ## Components
